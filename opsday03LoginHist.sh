@@ -12,6 +12,6 @@ function user_history {
 
 user_history
 
-UH="There its done"
+UH="There, its done"
 echo $UH
 #main code end
