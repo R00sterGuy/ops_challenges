@@ -8,6 +8,8 @@
     
 # first run lshw
 # Remove irrelevant info
+echo 'whats my name?'
+sudo lshw | grep "alsserver"
 echo 'have a peak at the cpu'
 lshw | grep -A 7 '*-cpu'
 echo 'And here is the Ram'
