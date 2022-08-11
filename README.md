@@ -1,4 +1,4 @@
-# ops_challenges
+# Ops_Challenges
 ***TIME TO CODE!!!!!***
 
 This is Where all my challenges in ops from codefellows will be kept (for 201 at least)
